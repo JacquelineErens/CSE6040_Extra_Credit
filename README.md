@@ -1,0 +1,1 @@
+This is the extra credit project I completed for Georgia Tech's OMSA CSE 6040 Course. I did a brief clustering analysis to get more hands-on experience using K-Means clustering. There's a lot more one could do in this space (trying other clustering algorithms for example) and I may add to this repository and find a more realistic dataset if time permits.
